@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.AssemblyInfo.cs
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week8/EpicGame/bin/Debug/net6.0/EpicGame
+/Users/elinkass/Projects/Week8/EpicGame/bin/Debug/net6.0/EpicGame.deps.json
+/Users/elinkass/Projects/Week8/EpicGame/bin/Debug/net6.0/EpicGame.runtimeconfig.json
+/Users/elinkass/Projects/Week8/EpicGame/bin/Debug/net6.0/EpicGame.dll
+/Users/elinkass/Projects/Week8/EpicGame/bin/Debug/net6.0/EpicGame.pdb
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.dll
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/refint/EpicGame.dll
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.pdb
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/EpicGame.genruntimeconfig.cache
+/Users/elinkass/Projects/Week8/EpicGame/obj/Debug/net6.0/ref/EpicGame.dll
